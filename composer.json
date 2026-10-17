@@ -1,0 +1,12 @@
+{
+    "name": "camp-mayagay/app",
+    "description": "Camp Mayagay reservation system",
+    "require": {
+        "php": ">=8.1",
+        "ext-pdo": "*",
+        "ext-pdo_mysql": "*",
+        "ext-mbstring": "*",
+        "ext-openssl": "*",
+        "ext-fileinfo": "*"
+    }
+}

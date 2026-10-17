@@ -1,0 +1,4 @@
+.git
+database/
+*.md
+node_modules
